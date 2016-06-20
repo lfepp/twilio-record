@@ -1,0 +1,11 @@
+{
+  "name": "Twilio Record",
+  "description": "Send Twilio recording addresses to a specified email",
+  "repository": "https://github.com/lfepp/twilio-record",
+  "version": "1.0.0",
+  "env": {
+    "EMAIL_ADDRESS": {
+      "description": "The email address to send the recording link to."
+    }
+  }
+}
